@@ -46,7 +46,6 @@ public class AssignmentOnePartOne {
         int sum = 0;
         // Answer here
         sum = (int)(numberOne + numberTwo);
-        //
         return sum;
     }
 
@@ -58,7 +57,6 @@ public class AssignmentOnePartOne {
         int m = 0;
         // Answer here
         m = (int)Math.round(km * 0.621371);
-        //
         return m;
     }
 
@@ -102,7 +100,7 @@ public class AssignmentOnePartOne {
         } else {
             return false;
         }
-        //
+
     }
 
     /**
